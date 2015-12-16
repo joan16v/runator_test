@@ -1,0 +1,7 @@
+parameters:
+#    runator_weather.example.class: Runator\WeatherBundle\Example
+
+services:
+#    runator_weather.example:
+#        class: %runator_weather.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
